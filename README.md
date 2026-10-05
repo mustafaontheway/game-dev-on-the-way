@@ -4,4 +4,3 @@
 
 * Defold Engine
 
-* Love2D
