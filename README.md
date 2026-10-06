@@ -2,8 +2,6 @@
 
 * Lua
 
-* Games
-
-* Godot Engine
+* Love2D
 
 * Defold Engine (Not yet!)
