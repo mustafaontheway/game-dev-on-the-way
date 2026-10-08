@@ -2,6 +2,6 @@
 
 * Lua
 
-* Love2D
+* Love2D & Love3D
 
 * Defold Engine (Not yet!)
