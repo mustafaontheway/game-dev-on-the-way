@@ -1,4 +1,4 @@
-# Lua: 2D & 3D Games
+# 2D & 3D Games
 
 * Lua
 
