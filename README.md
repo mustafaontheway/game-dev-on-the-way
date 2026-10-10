@@ -4,6 +4,4 @@
 
 * Love2D & Love3D
 
-* Godot Engine
-
 * Defold Engine (Not yet!..)
