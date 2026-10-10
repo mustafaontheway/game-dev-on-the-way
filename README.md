@@ -1,5 +1,5 @@
 # 2D & 3D Games
 
-* Godot Engine
+* Godot Engine -> Like Flutter or React Native, but I think Godot is cumbersome...
 
-* Defold Engine (Not yet!..)
+* Defold Engine (Not yet!..) -> Like Jetpack Compose, but I think hard to learn...
