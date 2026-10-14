@@ -1,7 +1,7 @@
 # 2D & 3D Games
 
-* Godot Engine -> Like Flutter or React Native, but I think Godot is cumbersome...
+* Godot Engine 2D
 
-* Löve2D/LöveR -> Reinventing the wheel again :) but I think the human brain needs some additional ingredients...
+* Godot Engine 3D
 
-* Defold Engine (Not yet!..) -> Like Jetpack Compose, but I think Defold is hard to learn...
+* GDScript
