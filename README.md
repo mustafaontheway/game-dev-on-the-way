@@ -6,4 +6,6 @@
 
 * GDScript
 
+* Godot optimization
+
 * Defold Engine? It depends on "Godot optimization". I need speed, less system usage etc... 
