@@ -8,4 +8,3 @@
 
 * Game Development Optimization
   
-* Defold Engine? It depends on "Godot optimization". I need speed, lower system usage etc... 
