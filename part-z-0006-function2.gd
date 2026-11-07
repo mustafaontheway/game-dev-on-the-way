@@ -1,7 +1,7 @@
 extends Node
 
 var power: int
-# score = clampi(score + puan_degisimi, 0, 9999)
+
 func update_power(score: int) -> void:
 	
 	if score < 0:
