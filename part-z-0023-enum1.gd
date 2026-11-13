@@ -1,6 +1,6 @@
 extends Node2D
 
-enum Rating { A, B, C, D, E}
+enum Rating { A, B, C, D, E }
 
 func set_player(id: String, player_rating: Rating, last_score: int) -> Dictionary:
 	
