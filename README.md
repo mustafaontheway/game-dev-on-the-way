@@ -6,5 +6,9 @@
 
 * GDScript
 
+* Roblox & Luau
+
+* Lua
+
 * Game Development Optimization
   
